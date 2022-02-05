@@ -7,6 +7,9 @@ import random
 #imports module to set delay
 import time
 
+#Greet the user
+print("Hi friend! I hope that you like guessing games!")
+
 #Build a game in which a user is asked to guess a secret number. 
 #The computer first generates a random number between 1 to 100. 
 print("Let's play a game!")
